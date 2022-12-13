@@ -16,3 +16,9 @@ This model does not accomplish its original intent, as the predictive utility is
 
 Some potential features for future projects: hours to beat (content), wishlists, trailer views, website/social media interactions
 Better insights could also be drawn by focusing on games of different genres, release windows and/or game platforms.
+
+
+<img src="https://github.com/djolaleye/GameReviews/blob/main/plots/review_rev.png" width=300 align=left>
+<img src="https://github.com/djolaleye/GameReviews/blob/main/plots/price_rev.png" width=300 align=center>
+<img src="https://github.com/djolaleye/GameReviews/blob/main/plots/rawg_rev.png" width=300 align=left>  
+<img src="https://github.com/djolaleye/GameReviews/blob/main/plots/meta_rev.png" width=300 align=center>  
