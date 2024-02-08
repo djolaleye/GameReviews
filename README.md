@@ -1,4 +1,4 @@
-# GameReviews
+# Game Revenue
 Video games continue to be one of the most popular forms of entertainment. However, publishers and new game studios often grapple with the uncertainty of how profitable their product will become. This project attempts to take some of the subjectivity out of the question and forecast the amount of expected revenue a video game can generate based on its sale price, number of reviews, and given rating on Metacritic and RAWG websites. 
 
 
